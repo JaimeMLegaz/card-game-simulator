@@ -1,0 +1,6 @@
+Actualmente, las cartas son objetos, y cada copia de la misma carta apunta al mismo objeto
+con las mismas características
+
+La discard pile creo que no se está usando en absoluto
+
+No hay habilidades funcionando ni ningún soporte para ellas
